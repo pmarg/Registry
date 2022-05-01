@@ -1,0 +1,6 @@
+name = "LocalRegistry"
+uuid = "58f99493-34ed-41e3-b59d-7bb12b9b1c6c"
+repo = "https://github.com/pmarg/Registry.git"
+description = "Local Registry"
+
+[packages]

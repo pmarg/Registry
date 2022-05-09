@@ -4,4 +4,5 @@ repo = "https://github.com/pmarg/Registry.git"
 description = "Local Registry"
 
 [packages]
+48fb21ed-9592-4fe5-901c-033ebb3f471c = { name = "ModelParameters", path = "M/ModelParameters" }
 64fa5d70-d699-11e8-15b1-b5d2f9a37380 = { name = "EconTools", path = "E/EconTools" }

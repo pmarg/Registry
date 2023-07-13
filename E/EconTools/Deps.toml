@@ -19,3 +19,6 @@ TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 ModelParameters = "4744a3fa-6c31-4707-899e-a3298e4618ad"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 StableRNGs = "860ef19b-820b-49d6-a774-d7a799459cd3"
+
+["1.2.1-1"]
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
